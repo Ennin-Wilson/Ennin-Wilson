@@ -1,7 +1,8 @@
 # Hi there! 👋
 
-I'm Ennin Wilson, an absolute beginner learning Python and Flask. Here's a bit about me:
-
+I'm Ennin Wilson, currently learning Python and Flask. Here's a bit about me:
+_HTML AND CSS GOD
+- JS 💀 
 - 👀 I'm interested in web development, Python programming, and open source projects.
 - 🌱 I'm currently learning Python and Flask to build web applications.
 - 💞️ I'm looking to collaborate on beginner-friendly Python projects or anything related to Flask.
